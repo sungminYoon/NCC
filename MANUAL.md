@@ -9,8 +9,10 @@ It makes it easy to make 3D images.
 Continuous CT Image is required.    
 ![Phaeochromozytoma_CT](https://user-images.githubusercontent.com/19296155/106423123-28176200-64a3-11eb-8b92-396efc1ded24.jpg)
 
-The following tasks:
-Run the application with tools such as PiCham.
-It is to look at the screen as below.
+The following tasks:    
+Run the application with tools such as PiCham.     
+It is to look at the screen as below.     
+![111](https://user-images.githubusercontent.com/19296155/106424051-e4bdf300-64a4-11eb-8a1f-6ce15a636a6c.png)    
+
 
 
