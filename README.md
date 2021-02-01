@@ -51,8 +51,8 @@ Select the jpg file converted.
 The image is displayed in the left table view and on the screen.     
 ![888](https://user-images.githubusercontent.com/19296155/106428474-62d1c800-64ac-11eb-872d-41312901e93d.png)
 
-step 7
-ROI & Threshold
+step 7     
+ROI & Threshold     
 ![5555555](https://user-images.githubusercontent.com/19296155/106532803-39f51580-6534-11eb-9b55-34c795cca4b3.png)     
 
 
