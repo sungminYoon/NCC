@@ -19,8 +19,8 @@ sudo pip3 install pillow
 sudo pip install pypng     
 import pydicom -> install pie true red underscore click install     
 
-The WORK_ROI project folder is located in the     
-Download to the appropriate location.     
+WORK_ROI project folder
+Download to the appropriate location. 
 
 ![555](https://user-images.githubusercontent.com/19296155/106425611-74fd3780-64a7-11eb-91e7-7fd586965295.png) 
 
