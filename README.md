@@ -3,7 +3,7 @@
 The program was created with the support of the National Cancer Center.     
 The program was written on the advice of Yuh-Seog Jung, Jungirl Seok, medical doctor.     
 
-The GNU General Public License (GPL)     
+The GNU General Public License(GPL)     
 Version 2, June 1991     
 Copyright (C) 1989, 1991 Free Software Foundation, Inc.
 
