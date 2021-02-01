@@ -19,10 +19,16 @@ sudo pip3 install pillow
 sudo pip install pypng     
 import pydicom -> install pie true red underscore click install     
 
+
+
+Run main.py
+
 The following tasks:    
 Run the application with tools such as PiCham.     
 It is to look at the screen as below.     
 ![111](https://user-images.githubusercontent.com/19296155/106424051-e4bdf300-64a4-11eb-8a1f-6ce15a636a6c.png)    
+
+
 
 
 
