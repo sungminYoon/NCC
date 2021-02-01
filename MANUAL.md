@@ -19,7 +19,7 @@ sudo pip3 install pillow
 sudo pip install pypng     
 import pydicom -> install pie true red underscore click install     
 
-![555](https://user-images.githubusercontent.com/19296155/106425291-0e781980-64a7-11eb-80a7-c6453f48dfa1.png)     
+![555](https://user-images.githubusercontent.com/19296155/106425611-74fd3780-64a7-11eb-91e7-7fd586965295.png) 
 
 Run main.py
 
