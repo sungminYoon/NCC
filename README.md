@@ -5,8 +5,7 @@ The program was written on the advice of Yuh-Seog Jung, Jungirl Seok, medical do
 
 The GNU General Public License (GPL)     
 Version 2, June 1991     
-Copyright (C) 1989, 1991 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA     
-Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.     
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
 
 This is a preprocessing program to help AI.     
 Split the slide CT medical images using the THRESHOLD.     
