@@ -41,6 +41,10 @@ It is to look at the screen as below.
 CT DICOM file -> jpg change
 ![777](https://user-images.githubusercontent.com/19296155/106426809-97905000-64a9-11eb-926c-1f794589c34d.png)
 
+The generated folder displays the date and time.     
+Select the jpg file converted.     
+The image is displayed in the left table view and on the screen.     
+
 
 
 
