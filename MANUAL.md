@@ -30,9 +30,11 @@ The following tasks:
 Run the application with tools such as PiCham.     
 It is to look at the screen as below.     
 ![111](https://user-images.githubusercontent.com/19296155/106424051-e4bdf300-64a4-11eb-8a1f-6ce15a636a6c.png)   
-
+     
+     
+     
 CT DICOM file -> jpg change
-![777](https://user-images.githubusercontent.com/19296155/106426493-0c16bf00-64a9-11eb-9d88-68d2c98e914f.png)     
+![777](https://user-images.githubusercontent.com/19296155/106426493-0c16bf00-64a9-11eb-9d88-68d2c98e914f.png)   
 
 
 
