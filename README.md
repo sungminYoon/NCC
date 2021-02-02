@@ -79,7 +79,7 @@ There is a folder as below.
 The binary data for the selected mask is generated.     
 
 The image restore code for binary data is also located in the path below.     
-
+LAB -> common -> util -> img_text.py
 ![647456452](https://user-images.githubusercontent.com/19296155/106534896-614de180-6538-11eb-9209-25576d49132b.png)     
 
 
