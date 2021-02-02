@@ -60,7 +60,11 @@ We've got more options for ROI.
 I can handle it.    
 ![99999](https://user-images.githubusercontent.com/19296155/106533067-c43d7980-6534-11eb-8c48-5a9c599dfb98.png)
 
-
+step 8     
+When ROI selection is complete,     
+Press the algorithm button at the top of the center.     
+Extract the mask.     
+![34634463](https://user-images.githubusercontent.com/19296155/106534033-8b9e9f80-6536-11eb-96d5-5d0d03112308.png)     
 
 
 
