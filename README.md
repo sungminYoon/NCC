@@ -11,6 +11,8 @@ This is a preprocessing program to help AI.
 Split the slide CT medical images using the THRESHOLD.     
 It makes it easy to make 3D images.     
 
+![123](https://user-images.githubusercontent.com/19296155/106537490-c6580600-653d-11eb-8216-f28bf8baa4b3.png)     
+
 step 1     
 512 * 512 similar to below     
 Continuous CT Image is required.    Creative Commons license CT image    
