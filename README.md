@@ -66,7 +66,7 @@ Press the algorithm button at the top of the center.
 Extract the mask.     
 ![34634463](https://user-images.githubusercontent.com/19296155/106534033-8b9e9f80-6536-11eb-96d5-5d0d03112308.png)     
 
-step 10
+step 10     
 Press the Export button, and then click     
 When I refresh it,     
 There is a folder as below.     
